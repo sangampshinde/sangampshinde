@@ -10,7 +10,7 @@
  
  🔭 I’m currently working at ** **
  
- 🌱 I’m currently learning **Next-JS**
+ 🌱 I’m currently learning **Next-JS & Tailwind CSS**
 
  </div>
  
