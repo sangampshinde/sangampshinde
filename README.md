@@ -10,7 +10,7 @@
  
  🔭 I’m currently working at ** **
  
- 🌱 I’m currently learning **Laravel + PHP**
+ 🌱 I’m currently learning **Next-JS**
 
  </div>
  
