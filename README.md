@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working at ** **
+ 🔭 I’m currently working at **SP IT Solutions LLP**
  
- 🌱 I’m currently learning **Next-JS & Tailwind CSS**
+ 🌱 I’m currently learning **NextJS & NestJS, Tailwind CSS **
 
  </div>
  
