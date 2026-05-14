@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/sangamshinde" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://sangam-shinde.netlify.app" target="_blank">
+  <a href="https://sangam-shinde.netlify.app](https://6a052f1f67ac61b521386b1b--sangam-shinde-portfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
